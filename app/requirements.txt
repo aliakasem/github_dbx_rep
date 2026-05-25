@@ -1,5 +1,6 @@
 streamlit
 pandas
 plotly
+scikit-learn
 databricks-sdk
 databricks-sql-connector
